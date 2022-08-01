@@ -1,5 +1,5 @@
 # Git lunch and learn
-A starting point for a series of lectures on Git. This is a high level introduction to the fundamentals of understanding Git, used for examples in conjunction with a walkthrough in a presentation
+A starting point for a series of lectures on Git. This is a high level introduction to the fundamentals of understanding Git, to be used in conjunction with a demonstration
 
 ## Concepts covered
 - The 4 areas and how to move work between them
