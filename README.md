@@ -17,7 +17,7 @@ When resolving merge conflicts or doing more advanced techniques, the Vim text e
 | ------------ |  ----  |
 | `:q!`   | Quit without saving |
 | `:wq`   | Save and quit |
-| `:i` | Insert. This allows editing of the file. Press ESC to exit this mode |
+| `i` | Insert. This allows editing of the file. Press ESC to exit this mode |
 
 ## Useful commands
 | Command       | Overview |
